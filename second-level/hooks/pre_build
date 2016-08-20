@@ -1,5 +1,6 @@
 #!/bin/sh
 
 which make || true
+which git || true
 
 echo "YES" > second-level-pre-build
