@@ -4,3 +4,5 @@ which make || true
 which git || true
 
 echo "YES" > second-level-pre-build
+
+cp ../README.md README-COPIED.md
