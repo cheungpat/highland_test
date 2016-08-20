@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "YES" > second-level-pre-build
